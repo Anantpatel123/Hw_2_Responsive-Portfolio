@@ -4,7 +4,7 @@ Overview
 
 Enhancing the portfolio (see below details about the Portfolio) you made last week with a mobile-responsive layout.
 
-build a professional portfolio site using HTML/CSS.
+build a professional portfolio site using HTML/CSS:
 
 ◦ Create a About page that has your pic and a pragraph about yourself.
 
@@ -13,7 +13,7 @@ build a professional portfolio site using HTML/CSS.
 ◦ And create a Contact page where people can provide thier name, email address and a brief message.
 
 
-Mobile-Responsive layout
+Mobile-Responsive layout:
 
 
 1. Use three @media screen tags, each with one of these max-widths: 980px, 768px and 640px.
